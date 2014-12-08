@@ -1,5 +1,24 @@
 == README
 
+# Ruby on Rails Tutorial: пример приложения
+
+Это пример приложения для
+[*Ruby on Rails Tutorial*](http://railstutorial.org/)
+by [Alyona Dryuchilo](http://).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
